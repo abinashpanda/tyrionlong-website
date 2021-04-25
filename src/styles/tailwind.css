@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.image {
+  transform: translateX(calc(100% * var(--offset)));
+}
