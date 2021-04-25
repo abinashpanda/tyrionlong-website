@@ -15,7 +15,7 @@ export default function Home() {
           className="w-12 h-12 rounded-full"
         />
         <div className="flex-1">
-          <div className="text-2xl text-white font-display">Asim Khan</div>
+          <div className="text-2xl text-white">Asim Khan</div>
           <div className="text-sm font-medium text-green-500">
             Visual & UI Designer
           </div>
@@ -32,7 +32,7 @@ export default function Home() {
         <a
           href="https://github.com/abinashpanda"
           target="_blank"
-          className="text-lg text-green-500 font-display"
+          className="text-lg text-green-500"
         >
           @abinashpanda
         </a>
